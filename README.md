@@ -1,4 +1,4 @@
-# desafio01
+# Desafio 01
 
 ## Requisitos Funcionais
 Criar um aplicativo para controlar o cadastro de produtos e suas categorias. O usuário deverá ser capaz de:
@@ -19,6 +19,7 @@ Criar um aplicativo para controlar o cadastro de produtos e suas categorias. O u
 
 ### Tabela de Produtos deve conter, pelo menos:
 - Nome
+- Descrição
 - Preço
 - Imagem
 - Categoria
